@@ -1,4 +1,4 @@
-[![<sonntse130084>](https://circleci.com/gh/sonntse130084/udacity-ml_microservice.svg?style=svg)](https://circleci.com/gh/sonntse130084/udacity-ml_microservice)
+[![<sonntse130084>](https://circleci.com/gh/sonntse130084/udacity-ml-devops.svg?style=svg)](https://circleci.com/gh/sonntse130084/udacity-ml-devops)
 
 ## Project Overview
 
